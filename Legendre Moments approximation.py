@@ -74,7 +74,7 @@ def equations(yy, x, x_start, x_end, target_moments, regularization_param):
 # Parameters
 x_start = 0
 x_end = 2*np.pi
-number_of_points = 40
+number_of_points = 20
 regularization_param = 1e-1
 
 # Discrete sample points for approximation
